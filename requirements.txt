@@ -1,0 +1,16 @@
+flask
+flask-login
+flask-sqlalchemy
+PyPDF2
+python-docx
+werkzeug
+spacy>=3.8.0
+sentence-transformers
+matplotlib
+seaborn
+plotly
+reportlab
+pandas
+numpy
+scikit-learn
+pydantic>=2.0
