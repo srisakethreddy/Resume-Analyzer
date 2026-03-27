@@ -1,6 +1,0 @@
-flask
-flask-login
-flask-sqlalchemy
-PyPDF2
-python-docx
-werkzeug
